@@ -1,0 +1,285 @@
+/* Styles for phones (up to 767px wide) */
+@media only screen and (max-width: 767px) {
+    
+    .lone-img{
+        margin-top: 1rem;
+        height: 70px;
+        width: 150px;
+        margin-left: .5rem;
+    }
+    .search{
+display: none;
+    }
+    
+    .cart-icon{
+     display: none;
+    }
+  
+.back-bg{
+    background-color: rgb(7, 7, 72);
+    color: #fff;
+    height: 700px;
+}
+.testimonial{
+     height: 300px; 
+    margin-top: 2rem;
+    width: 95%;
+    margin-left: .5rem;
+    border-radius: 1rem;
+    text-transform: uppercase;
+}
+
+.lone-1{
+    margin-top: 1rem;
+}
+.Crypto{
+    font-weight: bolder;
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
+.Reaching{
+margin-top: 1rem;
+    margin-left: 1rem;
+}
+.btn{
+    background-color: rgb(98, 19, 172);
+    margin-left: 1rem;
+    width: 90%;
+    color: #fff;
+    border-radius: 20px ;
+    text-transform: capitalize;
+}
+.btn:hover{
+    background-color:olive;
+    margin-left: 1rem;
+    color: #fff;
+    border-radius: 20px ;
+    text-transform: capitalize;
+}
+
+
+.row-ji{
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    margin-left: 2rem;
+}
+
+
+.one-bg{
+    background-color: #f2f9ff;
+
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-right: 3rem;
+    margin-top: 2rem;
+   }
+
+   .bg-back{
+    background-color: #95f0b5;
+    height: 400px;
+    
+}
+
+
+
+/* index-1.html ki phonr css */
+
+
+
+.What{
+    margin-left: -1rem;
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+.ipsum{
+    margin-left: -1rem; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.one{
+    margin-top: -3rem;
+}
+.upcoming {
+    margin-left: 1rem;
+    font-size: 1.5rem;
+}
+
+.form-control {
+    width: 95%;
+   margin-top: -8rem;
+    margin-left: .5rem;
+    font-size: 1rem;
+    color: black;
+    height: 3rem;
+    border-radius: 20px;
+  }
+  .By {
+ margin-left: .5rem;
+ margin-right: .5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* index-2.html ki css */
+
+.Industry{
+    margin-left: 1rem;
+    font-size: 1rem;
+}
+.dolor{
+    margin-left: 1rem;
+    font-size: 10px;
+}
+.img-about{
+    margin-left: 1rem;
+    margin-top: 2rem;
+    width: 90%;
+}
+.img-about-1{
+    margin-top: 3rem;
+    margin-left: 1rem;
+    width: 90%;
+}
+
+
+.Lorem{
+    margin-left: 1rem;
+    font-size: 1rem;
+}
+
+.arcu{
+    margin-left: 1rem;
+    font-size: .8rem;
+}
+.sell{
+    margin-left: 1rem;
+
+}
+.Our-mission{
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+.rhoncus{
+    margin-left : 1rem;
+    margin-top: 2rem;
+}
+
+.porttitor{
+    background-color: #95f0b5;
+padding-top: 1rem;
+}
+.t-t{
+    font-size:20px;
+    border-radius: 100px;
+    width: 150px;
+    height: 60px;
+    background-color: rgb(28, 28, 153);
+    color: white;
+    border: 1px solid rgb(28, 28, 153);
+    margin-left:1rem;
+    margin-bottom: 1rem;
+}
+.t-t:hover{
+    font-size:20px;
+    border-radius: 100px;
+    width: 150px;
+    height: 60px;
+    background-color: rgb(7, 186, 58);
+    color: white;
+    border: 1px solid rgb(7, 186, 58);
+    margin-left:1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+/* teem.html ki css */
+
+.ml-4{
+    margin-left: 1rem;
+}
+.name{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.teem-fotos{
+    height: 300px;
+    width: 100%;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    border-radius: 20px;
+}
+.name-1{
+    margin-left: 1rem;
+}
+
+
+
+
+
+
+
+
+
+.Life{
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+.We{
+    font-size: 15px;
+    margin-left: 1rem;
+}
+
+.touch{
+
+margin-left: -1rem;
+    text-decoration: none;
+    color: black;
+    }
+    .touch:hover{
+        text-decoration: underline;
+        color: #3be6a4;
+    }
+
+
+
+.info{
+    margin-left: -2rem;
+    font-size: 1rem;
+}
+.youtube{
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+.youtube-1{
+    margin-left: -15rem;
+}
+.loc{
+    margin-left:-.5rem;
+    
+}
+.Cookies{
+    margin-left: 5px;
+    font-size: 10px;
+    font-weight: bold;
+    }
+.rights{
+    margin-left: .5rem;
+    margin-top: 1rem;
+}
+}
